@@ -1,0 +1,11 @@
+#header, #footer {
+  border-radius: 0;
+}
+
+.address-grid table {
+  margin-top: 16px;
+}
+
+#footer {
+  margin-top: 48px;
+}

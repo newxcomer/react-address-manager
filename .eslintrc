@@ -1,0 +1,11 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": 0
+  },
+  "globals": { "ENV": true },
+  "env": {
+      "browser": true,
+      "node": true
+  }
+}
